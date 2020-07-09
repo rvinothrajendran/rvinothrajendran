@@ -1,6 +1,6 @@
 ### Vinoth 👋
 
-Hi,I'm Vinoth Rajendran - Technical specialist at BOSCH | Microsoft MVP (AI).
+Hi,I'm Vinoth Rajendran - Software developer at BOSCH | Microsoft MVP (AI).
 
 - 🔭 I’m currently working on Microsoft Bot Framework | WPF 
 - 💬 Ask me about Bot , WPF , UWP.
