@@ -6,6 +6,9 @@ Hi,I'm Vinoth Rajendran - Software developer at BOSCH | Microsoft MVP (AI).
 - 💬 Ask me about Bot , WPF , UWP.
 - 📫 How to reach me: https://twitter.com/vinothrajendran
 
+[![Twitter](https://img.shields.io/badge/follow-@VinothRajendran-blue?style=flat-square&logo=twitter&labelColor=00000 "Twitter")](https://twitter.com/vinothrajendran "Twitter")
+[![Linked In](https://img.shields.io/badge/connect-VinothRajendran-green?style=flat-square&logo=linkedin&labelColor=3f729b "Linked In")](www.linkedin.com/in/rmvinoth "Linked In")
+
 <!--
 **rvinothrajendran/rvinothrajendran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
