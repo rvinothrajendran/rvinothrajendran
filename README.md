@@ -12,6 +12,7 @@ Hi,I'm Vinoth - Software developer | Microsoft MVP (AI).
 [![Linked In](https://img.shields.io/badge/connect-VinothRajendran-green?style=flat-square&logo=linkedin&labelColor=3f729b "Linked In")](https://www.linkedin.com/in/rmvinoth "Linked In")
 
 [![Vinoth github stats](https://github-readme-stats.vercel.app/api?username=rvinothrajendran&theme=dark)](https://github.com/rvinothrajendran/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvinothrajendran&count_private=true&theme=tokyonight" />
 
 <!--
 **rvinothrajendran/rvinothrajendran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
