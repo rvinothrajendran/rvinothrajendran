@@ -3,7 +3,7 @@
 Hi,I'm Vinoth - Software developer | Microsoft MVP (AI).
 
 - 🔭 I’m currently working on Microsoft Bot Framework | WPF 
-- 💬 Ask me about Bot , WPF , UWP.
+- 💬 Ask me about Bot , WPF.
 
 
 ### 📫 How to reach me
