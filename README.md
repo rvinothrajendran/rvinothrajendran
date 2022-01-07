@@ -1,6 +1,6 @@
 ### About Me 👋
 
-Hi,I'm Vinoth - Software developer | Microsoft MVP (AI).
+Hi,I'm Vinoth - Software developer.
 
 - 🔭 I’m currently working on Microsoft Bot Framework | WPF 
 - 💬 Ask me about Bot , WPF.
