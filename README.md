@@ -2,8 +2,13 @@
 
 Hi,I'm Vinoth - Software developer.
 
-- 🔭 I’m currently working on Microsoft Bot Framework | WPF 
-- 💬 Ask me about Bot , WPF.
+- Experienced developer with a focus on developing conversational AI using Bot Framework, Bot Composer, and Azure Cognitive Services.
+- Strong understanding of the Microsoft .NET framework and C# programming language.
+- Proven ability to develop and implement advanced chatbots with natural language processing, sentiment analysis.
+- Experienced in developing desktop applications using WPF, with a focus on creating modern user interfaces and efficient data management.
+- Passionate about utilizing AI and modern technologies to create innovative solutions that enhance the user experience.
+
+- 💬 Ask me about Bot Framework, Bot Composer, and Azure Cognitive Services & WPF
 
 
 ### 📫 How to reach me
