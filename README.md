@@ -4,7 +4,7 @@ Hi,I'm Vinoth - Software developer.
 
 - Experienced developer with a focus on developing conversational AI using Bot Framework, Bot Composer, and Azure Cognitive Services.
 - Strong understanding of the Microsoft .NET framework and C# programming language.
-- Proven ability to develop and implement advanced chatbots with natural language processing, sentiment analysis.
+- Proven ability to develop and implement advanced chatbots with natural language processing, sentiment analysis , QnA 
 - Experienced in developing desktop applications using WPF, with a focus on creating modern user interfaces and efficient data management.
 - Passionate about utilizing AI and modern technologies to create innovative solutions that enhance the user experience.
 
