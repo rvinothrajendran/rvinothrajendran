@@ -10,7 +10,8 @@ Hi,I'm Vinoth - Software developer.
 
 - 💬 Ask me about Bot Framework, Bot Composer, and Azure Cognitive Services & WPF
 
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCQf_yRJpsfyEiWWpt1MZ6vA)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCQf_yRJpsfyEiWWpt1MZ6vA?link=https%3A%2F%2Fwww.youtube.com%2Fvinothrajendran)
+
 
 
 ### 📫 How to reach me
