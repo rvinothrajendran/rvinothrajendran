@@ -46,6 +46,14 @@
 
 ---
 
+
+### 🗣️ Ask Me About
+
+> 🧠 Azure OpenAI  · 🎯 Copilot Studio  · 🧩 Semantic Kernel · 🤖 Bot Framework · 💬 Azure Cognitive Services · 🖥️ WPF with MVVM 
+
+---
+
+
 ### 📫 How to Reach Me
 
 <p align="left">
@@ -67,12 +75,6 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rvinothrajendran&layout=compact&langs_count=8&theme=algolia&hide_border=true" />
   </a>
 </p>
-
----
-
-### 🗣️ Ask Me About
-
-> 🧠 Azure OpenAI  · 🎯 Copilot Studio  · 🧩 Semantic Kernel · 🤖 Bot Framework · 💬 Azure Cognitive Services · 🖥️ WPF with MVVM 
 
 ---
 
