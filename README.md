@@ -49,7 +49,7 @@
 
 ### 🗣️ Ask Me About
 
-> 🧠 Azure OpenAI  · 🎯 Copilot Studio  · 🧩 Semantic Kernel · 🤖 Bot Framework · 💬 Azure Cognitive Services · 🖥️ WPF with MVVM 
+> 🧠 Azure OpenAI  · 🎯 Copilot Studio  · 🧩 Semantic Kernel · 🤖 Bot Framework · 🖥️ Desktop apps
 
 ---
 
