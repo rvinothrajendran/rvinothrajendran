@@ -18,7 +18,7 @@
 
 - 🧠 **AI-first developer** building intelligent agents using **Azure OpenAI**, **Copilot Studio**, and **Semantic Kernel**
 - 🤖 Expert in **Conversational AI** with Microsoft **Bot Framework**, **Composer**, and **Azure Cognitive Services**
-- 🖥️ Professional in developing desktop apps using **WPF** and **MVVM**
+- 🖥️ Professional in developing desktop apps using **WPF** 
 - 🎤 Active **community speaker** at meetups & tech conferences
 - 🎥 Sharing knowledge via **AI-focused YouTube content ( English and Tamil)**
 
