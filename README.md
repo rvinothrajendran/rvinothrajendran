@@ -53,7 +53,6 @@
 
 ---
 
-
 ### 📫 How to Reach Me
 
 <p align="left">
@@ -62,11 +61,11 @@
   </a>
   <a href="https://www.linkedin.com/in/rmvinoth">
     <img src="https://img.shields.io/badge/connect-Vinoth%20Rajendran-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  </a> 
 </p>
-
+ 
 ---
-
+![](https://komarev.com/ghpvc/?username=rvinothrajendran&style=for-the-badge)
 ### 📊 GitHub Analytics
 
 <p align="center">
